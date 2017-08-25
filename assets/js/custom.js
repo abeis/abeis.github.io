@@ -34,7 +34,7 @@
          * Background image
         /* ---------------------------------------------- */
 
-        //$('#intro').backstretch(['assets/images/hero.jpg']);
+        $('#intro').backstretch(['assets/images/hero.jpg']);
 
         
         /* ---------------------------------------------- /*
