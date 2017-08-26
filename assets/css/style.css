@@ -545,6 +545,12 @@ h3 > .fa {
     height: 100vh;
 }
 
+@media screen and (max-width: 768px){
+    #intro{
+        padding: 150px 0 160px 0;
+    }
+}
+
 #intro .ovrl{
     position: absolute;
     top: 0;
