@@ -43,6 +43,12 @@ h1 {
     margin: 5px 0 15px;
 }
 
+@media screen and (max-width:768px){
+    h1{
+        font-size: 38px;
+    }
+}
+
 h2 {
     font-size: 40px;
     font-weight: 700;
